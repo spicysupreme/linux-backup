@@ -1,0 +1,5 @@
+URxvt.scrollBar: false
+URxvt.font: xft:kakwafont:size=8
+URxvt.boldFont: xft:kakwafont:bold:size=8
+URxvt.keysym.Shift-Up: command:\033]720;1\007
+URxvt.keysym.Shift-Down: command:\033]721;1\007 

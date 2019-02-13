@@ -1,0 +1,5 @@
+rofi.theme: ~/.cache/wal/colors-rofi-dark.rasi
+rofi.width: 500
+rofi.padding: 20
+rofi.font: kakwafont 8
+rofi.drun-display-format: {name} 
